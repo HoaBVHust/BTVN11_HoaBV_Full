@@ -1,4 +1,4 @@
-package com.topica.edu.itlab.jdbc.load;
+package com.topica.edu.itlab.jdbc.tutorial.load;
 
 import java.lang.reflect.Field;
 import java.sql.ResultSet;

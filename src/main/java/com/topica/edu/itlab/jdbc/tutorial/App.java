@@ -9,9 +9,9 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-import com.topica.edu.itlab.jdbc.load.Load;
 import com.topica.edu.itlab.jdbc.tutorial.entity.ClassEntity;
 import com.topica.edu.itlab.jdbc.tutorial.entity.StudentEntity;
+import com.topica.edu.itlab.jdbc.tutorial.load.Load;
 /**
  * Hello world!
  *
