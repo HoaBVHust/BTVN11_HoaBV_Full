@@ -58,7 +58,6 @@ public class App
 			else {
 				System.out.println("List ClassEntity is null!");
 			}
-			
 			/*
 			 * 2. Eager load
 			 */
